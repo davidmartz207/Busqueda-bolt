@@ -1,14 +1,14 @@
 <?php
-
-namespace Bolt\Extension\YourName\ExtensionName;
+namespace Bolt\Extension\DropBear\KoalaCatcher;
 
 use Bolt\Extension\SimpleExtension;
 
 /**
- * ExtensionName extension class.
+ * An extension for catching koalas.
  *
- * @author Your Name <you@example.com>
+ * @author Kenny Koala <kenny@dropbear.com.au>
  */
-class ExtensionNameExtension extends SimpleExtension
+class KoalaCatcherExtension extends SimpleExtension
 {
+    // Extension code goes here.
 }
