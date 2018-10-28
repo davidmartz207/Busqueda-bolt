@@ -1,5 +1,6 @@
 {
     "name": "dropbear/koalacatcher",
+    "version": "1.0",
     "description": "Catch koalas",
     "type": "bolt-extension",
     "keywords": ["koala", "dropbear"],
